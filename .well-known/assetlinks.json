@@ -1,0 +1,10 @@
+[
+    {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.acybus.shopify",
+      "sha256_cert_fingerprints":
+      ["98:E6:97:C8:90:9A:17:DF:9D:C3:ED:86:DF:0A:AD:79:14:A9:CF:E9:48:6C:43:94:14:A2:84:6D:CC:E9:E3:5E"]
+    }
+  }]
